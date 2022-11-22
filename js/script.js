@@ -122,7 +122,7 @@ function binarySearch(arr, x) {
 }
 
 // Function to Hide Solution
-let hideSolution() {
+function hideSolution() {
     let txt = "";
     document.getElementById("solution").innerHTML = txt;
 }
