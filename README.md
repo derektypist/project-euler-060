@@ -5,3 +5,24 @@ The primes 3, 7, 109, and 673, are quite remarkable.  By taking any two primes a
 Find the lowest sum for a set of five primes for which any two primes concatenate to produce another prime.
 
 Information at [Project Euler 060](https://projecteuler.net/problem=60)
+
+## UX
+
+**Getting Started**
+
+Select Show Solution to show the solution.  Select Hide Solution to hide the solution.
+
+**User Stories**
+
+As a user, I can show or hide the solution by selecting the appropriate button.
+
+As a user, I expect the function `primePairSets()` to return a number.
+
+As a user, I expect the function `primePairSets()` to return 26033.
+
+User Stories on function `primePairSets()` taken from [FreeCodeCamp - Coding Interview Prep - Project Euler 060](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-60-prime-pair-sets)
+
+**Information Architecture**
+
+The function `primePairSets()` returns a number.
+
