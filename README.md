@@ -26,3 +26,11 @@ User Stories on function `primePairSets()` taken from [FreeCodeCamp - Coding Int
 
 The function `primePairSets()` returns a number.
 
+## Features
+
+Allows the user to show or hide the solution to the problem as described in [Project Euler 060](https://projecteuler.net/problem=60).
+
+## Technologies
+
+Uses HTML5, CSS3, JavaScript, Bootstrap 5.2.3 and Google Fonts.
+
