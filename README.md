@@ -34,3 +34,22 @@ Allows the user to show or hide the solution to the problem as described in [Pro
 
 Uses HTML5, CSS3, JavaScript, Bootstrap 5.2.3 and Google Fonts.
 
+## Testing
+
+Ensure all user stories have been met.
+
+## Deployment
+
+Deployed on [GitHub Pages](https://derektypist.github.io/project-euler-060) at the main branch.
+
+## Credits
+
+### Content
+
+Written by me.
+
+### Acknowledgements
+
+- [Project Euler](https://projecteuler.net)
+- [FreeCodeCamp](https://www.freecodecamp.org)
+- [GitHub](https://www.github.com)
