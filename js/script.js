@@ -102,3 +102,21 @@ function isPrime(n) {
     }
     return true;
 }
+
+// Function to do Binary Search
+function binarySearch(arr,x) {
+    let min = 0;
+    let max = arr.length - 1;
+    let guess;
+    while (min<=max) {
+        guess = ((max+min) >>> 1);
+        if (x===arr[guess]) {
+            return guess;
+        } else if (x < arr[guess]) {
+            max = guess - 1;
+        } else {
+            min = guess + 1;
+        }
+    }
+    return -1;
+}
